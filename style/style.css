@@ -49,12 +49,12 @@ nav a:hover {
 }
 
 #job_description {
-	width: 17.5%;
+	width: 20%;
 	float: left;
 }
 
 #my_ideal_job {
-	width: 82.5%;
+	width: 80%;
 	float: right;
 }
 
