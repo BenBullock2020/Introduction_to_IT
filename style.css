@@ -1,5 +1,6 @@
 body {
 	font-family: sans-serif;
+	font-size: 20px; 
 	color: white;
 	background-color: gray; 
 	margin: 1;
@@ -25,4 +26,56 @@ nav a {
 
 nav a:hover {
 	background-color: black;
+}
+
+#my_info {
+	float: left;
+}
+
+#interesting_fact {
+	float: left;
+}
+
+#basic_info {
+	margin-top: 50px;
+	float: left;
+}
+
+#selfie {
+	margin-right: 200px;
+	float: right;
+	border-style: solid;
+	border-color: black;
+}
+
+#job_description {
+	width: 17.5%;
+	float: left;
+}
+
+#my_ideal_job {
+	width: 82.5%;
+	float: right;
+}
+
+#personality {
+	float: left;
+}
+
+#education {
+	float: right;
+}
+
+#creativity {
+	margin-right: 180px;
+	float: right;
+}
+
+#interpretation {
+	float: left;
+}
+
+#img {
+	border-style: solid;
+	border-color: black;
 }
